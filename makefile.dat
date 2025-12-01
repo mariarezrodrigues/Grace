@@ -1,0 +1,2 @@
+compiler_benchmark: compiler_setup.c compiler_benchmark.c
+	gcc compiler_setup.c compiler_benchmark.c -o compiler_benchmark

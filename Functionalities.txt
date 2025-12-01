@@ -1,0 +1,16 @@
+Basic functionalities:
+	Target source file
+	Select compiler
+	Select optimizations
+	Number of iterations
+	Result output
+	
+Other features:
+	Compiler detection
+	Improve error handling
+	HW usage tracker
+	User preferable compilers from checkboxes
+	Make it read all possible compilers from another file
+	List warnings from different compilers
+	generate obj not executable (to link obj)
+
